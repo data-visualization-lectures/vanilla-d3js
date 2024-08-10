@@ -1,0 +1,96 @@
+id,name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm
+42542871,"AH3 Uhome Akihabara Apartment 1, 7mn from station",Chiyoda Ku,35.69616,139.78074,Entire home/apt,7571,1,6,2021-03-28,0.75,38,26,6
+43201744,Oakwood Premier Tokyo/Superior Studio - Room Only,Chiyoda Ku,35.6823,139.76762,Entire home/apt,37840,1,0,,0,7,346,0
+43202161,Oakwood Premier Tokyo/Deluxe Studio -Room Only,Chiyoda Ku,35.68214,139.76642,Entire home/apt,41536,1,0,,0,7,347,0
+43207256,Oakwood Premier Tokyo/Executive 1BR Suite /NoMeal,Chiyoda Ku,35.68021,139.76599,Entire home/apt,71104,1,0,,0,7,346,0
+43207296,Oakwood Premier Tokyo/Deluxe 2BR Suite - Room Only,Chiyoda Ku,35.68094,139.76812,Entire home/apt,102080,1,0,,0,7,271,0
+43207517,Best for Family - Luxury 3Bedroom Suite,Chiyoda Ku,35.68144,139.76818,Entire home/apt,193669,1,0,,0,7,176,0
+43209548,神田リトルハウス2F,Chiyoda Ku,35.69192,139.76443,Private room,6900,1,12,2021-10-26,0.72,2,87,11
+43256396,"Ascott Marunouchi Tokyo, Studio",Chiyoda Ku,35.68673,139.76262,Entire home/apt,39930,1,0,,0,4,86,0
+43256455,"Ascott Marunouchi Tokyo, 1 Bedroom Deluxe",Chiyoda Ku,35.68673,139.76262,Entire home/apt,45980,1,0,,0,4,55,0
+43256474,"Ascott Marunouchi Tokyo, 1 Bedroom Executive",Chiyoda Ku,35.68673,139.76262,Entire home/apt,58080,1,0,,0,4,47,0
+43256501,"Ascott Marunouchi Tokyo, 1 Bedroom Premier",Chiyoda Ku,35.68673,139.76262,Entire home/apt,118580,1,0,,0,4,0,0
+43295604,"SPATIUM·3F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.6965,139.76875,Entire home/apt,13429,1,7,2021-02-02,0.62,12,0,7
+43295649,"SPATIUM·4F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.69616,139.76943,Entire home/apt,12000,1,2,2020-10-18,0.16,12,0,0
+43295710,"SPATIUM·5F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.69831,139.768,Entire home/apt,12000,1,4,2021-03-20,0.47,12,0,3
+43295774,"SPATIUM·6F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.69776,139.7674,Entire home/apt,12000,1,3,2021-04-25,0.24,12,0,2
+43295854,"SPATIUM·7F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.69828,139.76858,Entire home/apt,12000,1,0,,0,12,0,0
+43295876,"SPATIUM·8F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.69623,139.76724,Entire home/apt,11714,1,3,2021-08-20,0.18,12,52,1
+43295907,"SPATIUM·9F, Clean & Comfy APT,KANDA / Akihabara",Chiyoda Ku,35.69832,139.76914,Entire home/apt,13000,1,1,2020-08-08,0.07,12,0,0
+43426549,1302上野秋葉原中心位置，独立温馨房源。附近大量餐厅商场，多条地铁出行方便。免费Wi-Fi寄存行李,Chiyoda Ku,35.70472,139.77299,Entire home/apt,3500,1,1,2021-06-27,0.24,9,324,1
+43426556,1303上野秋葉原中间独立房源，自助入住零接触。附近大量餐厅商城多条地铁。免费Wi-Fi，寄存行李。,Chiyoda Ku,35.70291,139.7724,Entire home/apt,3500,1,2,2021-08-25,0.41,9,213,2
+43426575,1305上野秋叶原独立房源，独立除菌房源。附近大量餐厅商城，多条地铁出行方便。免费Wi-Fi寄存行李,Chiyoda Ku,35.7045,139.77264,Entire home/apt,3980,1,1,2021-06-30,0.25,9,207,1
+44783505,【長期宿泊割引】男女別カプセルホテル-最寄駅徒歩5分-FreeWi-Fi有り,Chiyoda Ku,35.69543,139.77829,Shared room,3300,1,1,2021-04-24,0.16,20,0,1
+45081605,[神保町駅]A1出口から徒歩1分☆デラックス　キングルーム　禁煙,Chiyoda Ku,35.69475,139.75579,Private room,12343,1,0,,0,9,0,0
+45290203,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 1-1a,Chiyoda Ku,35.69822,139.77957,Entire home/apt,50000,1,0,,0,50,0,0
+45294591,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 1-2a,Chiyoda Ku,35.69916,139.77924,Entire home/apt,50000,1,0,,0,50,0,0
+45297184,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 2-1a,Chiyoda Ku,35.69766,139.77744,Entire home/apt,50000,1,0,,0,50,0,0
+45297283,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 2-2a,Chiyoda Ku,35.69951,139.77756,Entire home/apt,50000,1,0,,0,50,0,0
+45297303,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 2-3a,Chiyoda Ku,35.69809,139.77762,Entire home/apt,50000,1,0,,0,50,0,0
+45297334,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 3-1a,Chiyoda Ku,35.69762,139.77887,Entire home/apt,50000,1,0,,0,50,0,0
+45297363,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 3-2a,Chiyoda Ku,35.6982,139.77955,Entire home/apt,50000,1,0,,0,50,0,0
+45297407,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 3-3a,Chiyoda Ku,35.69797,139.77741,Entire home/apt,50000,1,0,,0,50,0,0
+45297435,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 4-1a,Chiyoda Ku,35.69941,139.77931,Entire home/apt,50000,1,0,,0,50,0,0
+45302777,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 4-2a,Chiyoda Ku,35.69874,139.77962,Entire home/apt,50000,1,0,,0,50,0,0
+45302796,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 4-3a,Chiyoda Ku,35.69923,139.77763,Entire home/apt,50000,1,0,,0,50,0,0
+45302809,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 5-1a,Chiyoda Ku,35.69955,139.77954,Entire home/apt,50000,1,0,,0,50,0,0
+45302839,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 5-2a,Chiyoda Ku,35.69736,139.77889,Entire home/apt,50000,1,0,,0,50,0,0
+45302846,★無料Wi-Fi★アメ横・秋葉原電気街にアクセス◎ 5-3a,Chiyoda Ku,35.69749,139.77816,Entire home/apt,50000,1,0,,0,50,0,0
+45372563,New Open! Under the raiway hotel Akihabara★#A,Chiyoda Ku,35.70038,139.77453,Private room,7702,1,4,2021-06-28,0.3,13,122,3
+45372565,New Open! Under the raiway hotel Akihabara★#B,Chiyoda Ku,35.70074,139.77268,Private room,7702,1,3,2021-08-29,0.44,13,123,3
+45372567,New Open! Under Raiway Hotel Akihabara★#C,Chiyoda Ku,35.70085,139.77264,Private room,7702,1,1,2020-09-28,0.08,13,123,0
+45372608,New Open! Under Raiway Hotel Akihabara★#D,Chiyoda Ku,35.70211,139.77289,Private room,7702,1,0,,0,13,123,0
+45372619,New Open! Under Raiway Hotel Akihabara★#E,Chiyoda Ku,35.70025,139.77306,Private room,10071,1,11,2020-09-22,0.91,13,111,10
+45372625,New Open! Under Raiway Hotel Akihabara★#F,Chiyoda Ku,35.7022,139.7724,Private room,11019,1,2,2021-06-27,0.16,13,123,1
+45372633,New Open! Under Raiway Hotel Akihabara★#G,Chiyoda Ku,35.70049,139.77303,Private room,12085,1,0,,0,13,123,0
+45372637,New Open! Under Raiway Hotel Akihabara★#H,Chiyoda Ku,35.70177,139.77251,Private room,13389,1,0,,0,13,120,0
+45372641,New Open! Under Raiway Hotel Akihabara★#I,Chiyoda Ku,35.70056,139.774,Private room,11256,1,23,2021-07-03,1.7,13,123,22
+45372642,New Open! Under Raiway Hotel Akihabara★#J,Chiyoda Ku,35.7002,139.77403,Private room,10071,1,6,2021-04-11,0.44,13,123,4
+45372657,New Open! Under Raiway Hotel Akihabara★#K,Chiyoda Ku,35.70225,139.77285,Private room,7702,1,0,,0,13,123,0
+45372658,New Open! Under Raiway Hotel Akihabara★#L,Chiyoda Ku,35.70208,139.77283,Private room,10351,1,31,2021-02-27,2.3,13,102,25
+45372668,New Open! Under Raiway Hotel Akihabara★#M,Chiyoda Ku,35.7004,139.77397,Private room,13389,1,6,2021-09-19,0.44,13,108,5
+45979684,New/Luxury#5mins to Station#Max8ppl#Free WIFI#,Chiyoda Ku,35.70503,139.77195,Entire home/apt,5214,1,9,2021-05-10,0.74,16,47,9
+46074346,Akino Hotel★double bed★warm housing,Chiyoda Ku,35.70053,139.77647,Private room,8000,7,0,,0,10,0,0
+46074404,秋の旅馆｜秋葉原/高级单人房/花信風@akino403,Chiyoda Ku,35.70058,139.77829,Private room,5000,60,0,,0,10,0,0
+46493742,MONday Apart 秋葉原/デラックス　ツインルーム（1～2名）,Chiyoda Ku,35.69814,139.77937,Entire home/apt,12143,1,6,2021-05-09,0.59,6,178,6
+46493847,Grand Japanese Room (6 people room),Chiyoda Ku,35.69656,139.78267,Entire home/apt,15857,1,12,2021-09-20,1.17,7,31,12
+46493856,MONdayApartAsakusabashi Station/Deluxe Double Room,Chiyoda Ku,35.69605,139.78283,Entire home/apt,15857,1,1,2021-03-26,0.14,7,0,1
+46493962,MONday Apart 秋葉原/スーペリアファミリールーム（3～4名）,Chiyoda Ku,35.69843,139.77825,Entire home/apt,12500,1,6,2021-10-17,2.14,6,179,6
+46494149,MONday Apart 秋葉原/ グランジャパニーズスイート　（6名）,Chiyoda Ku,35.69807,139.77946,Entire home/apt,15000,1,4,2021-10-17,0.39,6,161,4
+46554538,東京駅から電車で6分！駅近！好立地ホステル　,Chiyoda Ku,35.68872,139.76536,Shared room,1980,1,23,2021-06-19,3.67,21,88,23
+46555238,東京駅から電車で6分！好立地カプセルホテル！①,Chiyoda Ku,35.69023,139.76523,Shared room,1980,1,8,2021-04-03,0.98,21,88,8
+46778222,MONday Apart 秋葉原/ デラックスツインルーム（1～4名）7泊以上,Chiyoda Ku,35.69812,139.77812,Private room,11500,7,0,,0,6,180,0
+46823854,10ベット部屋貸切！　東京大手町ホステル5階　L,Chiyoda Ku,35.69061,139.76583,Private room,30214,2,0,,0,21,90,0
+46824094,10名カプセルベット貸切部屋　東京大手町ホステル　M,Chiyoda Ku,35.68895,139.76686,Private room,12000,2,0,,0,21,90,0
+46824491,最大20名宿泊可能！東京大手町・好立地ホステル5階フロアまるまる貸切！,Chiyoda Ku,35.69041,139.76721,Private room,21371,2,0,,0,21,90,0
+46861851,MONday Apart 秋葉原/ グランジャパニーズスイート　ツインルーム（1～2名）,Chiyoda Ku,35.6963,139.78018,Entire home/apt,15000,1,1,2021-05-02,0.17,6,162,1
+46864090,MONday Apart 秋葉原/ グランジャパニーズスイート　（3～5名）,Chiyoda Ku,35.69629,139.77998,Entire home/apt,15000,1,6,2021-05-05,0.59,6,167,6
+46932944,東京駅から電車で6分！好立地カプセルホテル！②,Chiyoda Ku,35.68913,139.76737,Shared room,1980,1,2,2021-10-01,0.42,21,88,2
+47297517,神田リトルハウス3F,Chiyoda Ku,35.69016,139.76434,Private room,6500,1,2,2021-09-15,0.2,2,180,2
+47572223,千代田区岩本町　・秋葉原エリアにある女性専用ホステルです,Chiyoda Ku,35.69592,139.77896,Shared room,2100,1,0,,0,1,365,0
+47819092,【ホテル最上階のお部屋】最大5名まで利用可能！,Chiyoda Ku,35.70016,139.7783,Private room,14857,1,20,2021-10-14,3.26,14,72,20
+49637590,"＃201 Cozy Family Apt for max 9 ppl, Chiyoda Area",Chiyoda Ku,35.69376,139.77806,Private room,13671,2,2,2021-07-25,0.43,50,180,2
+49637712,＃301 Cozy KANDA STA 8MIN　Free Wi-fi　,Chiyoda Ku,35.69366,139.77842,Private room,5800,2,2,2021-09-04,0.81,50,180,2
+49637799,＃302 　KANDA STA　8MIN　Free Wi-fi,Chiyoda Ku,35.69236,139.77713,Private room,5980,2,4,2021-09-04,4,50,180,4
+49637869,"＃401 Cozy  Apt for max 4 ppl, Chiyoda Area.",Chiyoda Ku,35.69339,139.77706,Private room,3500,2,0,,0,50,145,0
+49637919,"＃402 Cozy  Apt for max 4 ppl, Chiyoda Area.",Chiyoda Ku,35.69356,139.77891,Private room,5980,2,1,2021-06-05,0.2,50,180,1
+49638039,"＃501B/C Cozy  Apt for max 4 ppl, Chiyoda Area",Chiyoda Ku,35.6932,139.77672,Private room,7346,2,0,,0,50,180,0
+49933809,【4名様までOK！】秋葉原のおしゃれなホテルでお得にステイ！,Chiyoda Ku,35.70038,139.77814,Private room,12429,1,6,2021-09-19,1.82,14,365,6
+49935781,【4名様までOK】秋葉原のおしゃれなホテルでお得にステイ,Chiyoda Ku,35.69989,139.77662,Private room,11943,1,0,,0,14,363,0
+49936657,【5名様までOK】秋葉原駅から徒歩6分！おしゃれなホテルでお得にステイ！,Chiyoda Ku,35.69981,139.77792,Private room,14700,1,0,,0,14,363,0
+49937045,Sotetsu Fresa Inn Ochanomizu Jimbocho,Chiyoda Ku,35.695278,139.760452,Hotel room,0,1,0,,0,1,0,0
+49937123,Sotetsu Fressain Kanda Otemachi,Chiyoda Ku,35.690716,139.768448,Hotel room,0,1,0,,0,1,0,0
+49937209,Sotetsu Fresa Inn Tokyo Kanda,Chiyoda Ku,35.691723,139.774017,Hotel room,0,1,0,,0,1,0,0
+50426764,【長期滞在歓迎】男女別カプセルホテル - 最寄駅徒歩5分 - FreeWi-Fi有り,Chiyoda Ku,35.69405,139.78025,Shared room,3300,1,0,,0,20,0,0
+51274722,Akasaka Excel Hotel Tokyu,Chiyoda Ku,35.677174,139.737503,Hotel room,0,1,0,,0,1,0,0
+51460431,GATE STAY秋葉原イースト/スーペリアツイン（1～2名）,Chiyoda Ku,35.70055,139.77894,Entire home/apt,10500,1,0,,0,8,180,0
+51533501,Hotel Akihabara Suite マンスリープラン,Chiyoda Ku,35.69224,139.77545,Private room,8000,30,0,,0,6,364,0
+51533932,Hotel Akihabara Suite ダブルベッド2台xソファーベッド2台,Chiyoda Ku,35.691769,139.774429,Private room,8000,1,0,,0,6,208,0
+51696370,東京駅徒歩圏内！大手町駅徒歩５分ドミトリーホステル,Chiyoda Ku,35.68917,139.76585,Shared room,2253,1,0,,0,1,362,0
+51789888,【4泊5日以上がお得】秋葉原にあるきれいなホテルのトリプルルーム,Chiyoda Ku,35.70007,139.77643,Private room,6983,4,2,2021-09-17,1.2,14,363,2
+51790001,【4泊5日以上がお得】秋葉原にあるきれいなホテルの4人ルーム,Chiyoda Ku,35.69962,139.7782,Private room,9943,4,0,,0,14,365,0
+51790214,【4泊5日以上がお得】秋葉原にあるきれいなホテルのコネクティングタイプの4人ルーム,Chiyoda Ku,35.69991,139.77729,Private room,9554,4,0,,0,14,363,0
+51792013,"【99,990円/月～】★30泊以上限定のマンスリープラン★秋葉原で楽しむホテルライフ",Chiyoda Ku,35.70095,139.77611,Private room,3333,30,0,,0,14,363,0
+52045326,上質な家具に飾られた最上階１住戸の  Residenza LAGIACCA,Chiyoda Ku,35.69147,139.76037,Entire home/apt,34514,1,0,,0,1,19,0
+52587962,【1名様専用】2020年9月オープン！秋葉原駅から徒歩6分のホテル,Chiyoda Ku,35.69989,139.77665,Private room,4777,1,1,2021-10-09,1,14,365,1
+52865427,【朝食無料】ハロウィン期間限定！秋葉原から徒歩6分のおしゃれなホテルです,Chiyoda Ku,35.70047,139.77688,Private room,12429,1,0,,0,14,349,0

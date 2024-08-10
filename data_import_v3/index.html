@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<script>
+
+queue()
+    .defer(d3.csv, 'listings_a.csv')
+    .defer(d3.csv, 'listings_b.csv')
+    .await(function(error, _data_a, _data_b) {
+        if (error) throw error;
+
+        console.log("data a", _data_a);
+        console.log("data b", _data_b);
+
+    });
+
+</script>
+</body>
+</html>
