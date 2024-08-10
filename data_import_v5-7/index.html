@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<script src='//unpkg.com/d3@7.9.0/dist/d3.min.js'></script>
+<!-- <script src='//unpkg.com/d3@6.7.0/dist/d3.min.js'></script> -->
+<!-- <script src='//unpkg.com/d3@5.16.0/dist/d3.min.js'></script> -->
+<script>
+
+Promise.all([
+
+    d3.csv("listings_a.csv"),
+    d3.csv("listings_b.csv"),
+
+    ]).then(function (_data) {
+
+        console.log("data a", _data[0]);
+        console.log("data b", _data[1]);
+
+        console.log("data a columns", _data[0].columns);
+        console.log("data b columns", _data[1].columns);
+
+        console.log("data a length", _data[0].length);
+        console.log("data b length", _data[1].length);
+});
+
+</script>
+</body>
+</html>
