@@ -15,20 +15,20 @@
 
 Promiseを使用する。
 
-[data_import_v5-7](data_import_v5-7)
+- [data_import_v5-7](data_import_v5-7)
 
 
 ### v4における方法
 
 d3.queue()を使用する。
 
-[data_import_v4](data_import_v4)
+- [data_import_v4](data_import_v4)
 
 ### v3における方法
 
 queue.jsを使用する。
 
-[data_import_v3](data_import_v3)
+- [data_import_v3](data_import_v3)
 
 
 
@@ -45,11 +45,11 @@ queue.jsを使用する。
 
 d3.scaleLinear()、d3.scaleOrdinal()などの構文。
 
-[scale_v5-7](scale_v5-7)
-[scale_v4](scale_v4)
+- [scale_v5-7](scale_v5-7)
+- [scale_v4](scale_v4)
 
 ### v3における方法
 
 d3.scale.linear()、d3.scale.ordinal()などの構文。
 
-[scale_v3](scale_v3)
+- [scale_v3](scale_v3)
