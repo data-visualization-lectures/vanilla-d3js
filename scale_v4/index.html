@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+/* 初期設定 */
+
+var minValue;
+var maxValue;
+var minView = 0;
+var maxView = 1000;
+
+var lengthScale = d3.scaleLinear();
+var wideScale = d3.scaleOrdinal();
+
+var dataValue;
+var wideValue = ["apple", "orange", "banana"];
+
+
+/* 実行 */
+
+d3.queue()
+    .defer(d3.csv, "listings.csv")
+    .await(function(error, _data) {
+        if (error) throw error;
+
+        // 数値として扱うべき変数を数値化
+        _data.forEach(function(d) {
+            d.price = +d.price;
+        });
+        console.log(_data);
+
+
+        /* --------------------
+        数値データの場合
+        -------------------- */
+
+        // 最小値の取得
+        minValue = d3.min(_data, function(d) { return d.price; });
+        console.log(minValue);
+
+        // 最大値の取得
+        maxValue = d3.max(_data, function(d) { return d.price; });
+        console.log(maxValue);
+
+        // スケールへドメイン＆レンジを適用
+        lengthScale.domain([minValue, maxValue]).range([minView, maxView]);
+
+        // ある新しい値がやってきた。表現としてはどうなるか？
+        console.log( "データが3000のときの表現は？", lengthScale(3000) );
+
+
+        /* --------------------
+        数値→文字データの場合
+        -------------------- */
+
+        // スケールへドメイン＆レンジを適用
+        wideScale.domain([minValue, maxValue]).range(wideValue);
+
+        // ある新しい値がやってきた。表現としてはどうなるか？
+        console.log( "データが1000のときの表現は？", wideScale(1000) );
+
+
+        /* --------------------
+        文字→文字データの場合
+        -------------------- */
+        dataValue = _data.map(function(d) { return d.neighbourhood; })
+        console.log( "dataValue", dataValue );
+
+        wideScale.domain(dataValue).range(wideValue);
+
+        // ある新しい値がやってきた。表現としてはどうなるか？
+        console.log( "Chiyoda Ku", wideScale("Chiyoda Ku") );
+});
+
+</script>
+</body>
+</html>
